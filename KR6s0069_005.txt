@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.379006
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 68, No. 1319
 #+PROPERTY: VOL 68
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0069_X_005-0527b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
+¶
 
- ¶
-
-圓證直指真際趙州諗禪師
-御製序¶
+** 御製序¶
 
 夫達摩西來。九年面壁。無多言句。而能直指人心。見¶
 性成佛。首開震旦之宗風。後人演唱提持。照用權實。¶
@@ -27,7 +25,7 @@
 州諗禪師。圓證無生法忍。以本分事接人。龍門之桐。¶
 高百尺而無枝。朕閱其言句。真所謂皮膚剝落盡。獨¶
 見一真實者。誠達摩之所護念。獅乳一滴。足迸散千¶
-斛驢乳。但禪師垂示。如五色珠。若小知淺見。會於言¶
+斛驢乳。伹禪師垂示。如五色珠。若小知淺見。會於言¶
 表。則辜負古佛之慈悲。落草之婆心也。
 
 觀師信手拈¶

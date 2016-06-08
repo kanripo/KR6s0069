@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.333059
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 68, No. 1319
 #+PROPERTY: VOL 68
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0069_X_002-0526b> 
 #+PROPERTY: JUAN 2
+¶
 
- ¶
-
-洞明妙智永嘉覺禪師
-御製序¶
+** 御製序¶
 
 古人遇時節因緣。每云言下大悟。夫言下大悟。悟不¶
 在言也。韓廬逐塊。乃於言中求悟。夢到驢年。是為執¶
@@ -39,7 +37,7 @@
 雍正十一年癸丑四月望日
 <pb:KR6s0069_X_002-0526c>¶
 
-御選洞明妙智永嘉覺禪師語錄¶
+** 御選洞明妙智永嘉覺禪師語錄¶
 
 師。永嘉人也。姓戴氏。丱歲出家。徧探三藏。精天台止¶
 觀圓妙法門。於四威儀中。常冥禪觀。後因左谿朗禪¶

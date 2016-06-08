@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.471288
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 68, No. 1319
 #+PROPERTY: VOL 68
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0069_X_010-0532b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
+¶
 
- ¶
-
-明宗真覺圓悟勤禪師
-御製序¶
+** 御製序¶
 
 頻呼小玉緣何事。為要檀郎認得聲。圓悟勤禪師因¶
 此言下頓徹。斯語也。綺語耶。禪語耶。塗毒鼓邊。豈容¶

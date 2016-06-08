@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.362673
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 68, No. 1319
 #+PROPERTY: VOL 68
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0069_X_004-0527a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
+¶
 
- ¶
-
-靈覺大圓溈山祐禪師　真證通智仰山寂禪師
-御製序¶
+** 御製序¶
 
 夫佛祖代代相承。稱為父子。雖曰假世間之名教。表¶
 出世之真傳。然大死大活。而慧命斯續。視屬毛離裏¶
@@ -22,7 +20,7 @@
 凡入聖。難報斯恩。
 
 夫拔火宅而登清凉之山。開迷雲¶
-而入光明之海。迴視頭刺膠盆。身同繭縛之時。正所¶
+而入光明之海。迴視頭剌膠盆。身同繭縛之時。正所¶
 謂如人飲水。冷暖自知。豈有不念皮肉骨髓所由來¶
 者乎。莫非父子也。而其中父子濟美。以溈仰為最。當
 <pb:KR6s0069_X_004-0527b>¶

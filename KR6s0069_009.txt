@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.457417
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 68, No. 1319
 #+PROPERTY: VOL 68
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0069_X_009-0532a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
+¶
 
- ¶
-
-正智明覺雪竇顯禪師
-御製序¶
+** 御製序¶
 
 雪竇徧參諸方。機辯無敵。忽遇智門。兩度拂子驀口¶
 打。豁然開悟。乃嗣智門。學者於此薦得。當知心不在¶
