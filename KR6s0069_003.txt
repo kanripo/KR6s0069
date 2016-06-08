@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:31.350945
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 御選語錄
 #+PROPERTY: CBETA_ID X68n1319
 #+PROPERTY: ID KR6s0069
@@ -9,11 +9,9 @@
 #+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6s0069_X_003-0526c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
+¶
 
- ¶
-
-妙覺普度和聖寒山大士　圓覺慈度合聖拾得大士
-御製序¶
+** 御製序¶
 
 寒山詩三百餘首。拾得詩五十餘首。唐閭邱太守寫¶
 自寒巖。流傳閻浮提界。讀者或以為俗語。或以為韻¶
